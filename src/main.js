@@ -5,8 +5,7 @@ new Vue({
   el: '#app',
   data: {
     message:"Initial value",
-    checkList:[]s
-
+    checkList:[]
   },
   methods:{
 
